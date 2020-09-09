@@ -1,0 +1,2 @@
+#!/bin/bash
+.:In this project we will work on some basic notions of shell:.
