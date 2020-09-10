@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 1000 betty
+cmod x hello
