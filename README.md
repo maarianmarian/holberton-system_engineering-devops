@@ -1,2 +1,1 @@
-# holberton-system_engineering-devops
-# holberton-system_engineering-devops
+.:in this repo you will find the exercises of slack 0x00. Shell, basics:.
