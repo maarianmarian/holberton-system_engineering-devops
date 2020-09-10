@@ -1,2 +1,2 @@
 #!/bin/bash
-cmod -------rwx hello
+cmod 007 hello
