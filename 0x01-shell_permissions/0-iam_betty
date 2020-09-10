@@ -1,1 +1,4 @@
-#!/bin/bash                                                                    usermod -l betty betty
+#!/bin/bash
+usermod
+
+ 
