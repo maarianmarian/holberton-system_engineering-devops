@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown --reference=hello olleh
+chmode reference=hello olleh
