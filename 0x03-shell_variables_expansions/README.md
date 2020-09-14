@@ -1,0 +1,1 @@
+.:in this repo we will work with Shell, init files, variables and expansions:.
